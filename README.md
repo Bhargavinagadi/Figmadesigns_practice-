@@ -1,40 +1,26 @@
- Food Mitra – Food Delivery App (UI/UX Design)
+Figma Designs Practice 🎨
 
-This is a UI/UX design project created in Figma.  
-The goal is to design a clean, modern, and user-friendly food delivery app that makes ordering food simple and enjoyable.
+This repository contains my practice projects in Figma.  
+Each folder has a dedicated README with designs and details.
 
----
+Projects
+- [Food Delivery App](./FoodDeliveryApp/README.md)  
+- [Button Variants](./ButtonDesign/README.md)  
 
-App Screens
-- Home Screen → Search bar + Categories of food  
-- Menu Screen → List of food items with “Add to Cart” option  
-- Cart Screen → Selected items + Checkout option  
 
----
 
-Tools & Skills Used
-- Figma (Frames, Components, Prototyping)
-- UI/UX Design Principles
-- Color Palette & Typography
-- Mobile App UI Design
 
----
 
- Screenshots
- 
-![ Intro screen] Intro page.png
-![Home Screen] Home page.png  
-![Menu Screen] menu page.png 
-![Cart Screen] Cart page.png  
-
----
-
- How I Designed It
-1. Created wireframes for main app flow.  
-2. Defined a color palette & typography.  
-3. Designed screens in Figma using components.  
-4. Exported and documented them here.  
-
----
+FigmaDesigns_Practice/
+│── README.md               ← main introduction
+│── FoodDeliveryApp/        ← Project 1
+│    ├── README.md
+│    ├── Home page.png
+│    ├── Menu page.png
+│    ├── Cart page.png
+│── ButtonDesign/           ← Project 2
+     ├── README.md
+     ├── Component.fig
+         preview
 
  Designed by:Bhargavi
